@@ -23,7 +23,7 @@ My goal is to combine scientific rigor, analytical thinking, and curiosity for i
 ## 📫 Contact
 
 * ✉️ Email: [tom.gortana@agroparistech.fr](mailto:tom.gortana@agroparistech.fr)
-* 📄 CV: [Available here](https://github.com/TomGortana/TomGortana/blob/main/CV_TomGortana.pdf)
+* 📄 CV: [Available here](https://github.com/TomGortana/TomGortana/blob/main/CV_Tom_GORTANA_EN.pdf)
 * 🌐 GitHub: [github.com/TomGortana](https://github.com/TomGortana)
 
 ---
